@@ -10,11 +10,11 @@ class Program
         Console.Write("The last digit of " + number + " is ");
         if (lastDigit > 5)
         {
-            Console.WriteLine(lastDigit + "and is greater than 5");
+            Console.WriteLine(lastDigit + " and is greater than 5");
         }
         else if (lastDigit == 0)
         {
-            Console.WriteLine(lastDigit + "and is zero");
+            Console.WriteLine(lastDigit + " and is zero");
         }
         else 
         {
