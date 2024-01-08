@@ -1,9 +1,13 @@
-﻿﻿using System;
+﻿using System;
 
-class Number
+class Line
 {
-    public static int Add(int a, int b)
+    public static void PrintLine(int length)
     {
-        return a + b;
+        for (int i = 1; i <= length; i++)
+        {
+            Console.Write("_");
+        }
+        Console.WriteLine();
     }
 }
