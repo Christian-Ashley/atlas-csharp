@@ -3,19 +3,14 @@ using System.Collections.Generic;
 
 class LList
 {
-    public static int FindNode(LinkedList<int> myLList, int value)
+    public static int Pop(LinkedList<int> myLList)
     {
-        int index_found = -1;
-        int current_index = -1;
-        foreach (int element in myLList)
+        if (myLList.Count == 0)
         {
-            current_index++;
-            if (element == value)
-            {
-                index_found = current_index;
-                return index_found;
-            }
+            return 0;
         }
-        return index_found;
-    }      
+        int value = myLList.First.Value;
+        myLList.Remove(value);
+        return value;
+    }
 }
