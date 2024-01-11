@@ -9,3 +9,4 @@ C:\Users\christian ashley\Documents\atlas-csharp\csharp-classes\0-enemy\obj\Debu
 C:\Users\christian ashley\Documents\atlas-csharp\csharp-classes\0-enemy\obj\Debug\netcoreapp2.1\0-enemy.AssemblyInfo.cs
 C:\Users\christian ashley\Documents\atlas-csharp\csharp-classes\0-enemy\obj\Debug\netcoreapp2.1\0-enemy.dll
 C:\Users\christian ashley\Documents\atlas-csharp\csharp-classes\0-enemy\obj\Debug\netcoreapp2.1\0-enemy.pdb
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-classes\0-enemy\bin\Debug\netcoreapp2.1\0-enemy.xml
