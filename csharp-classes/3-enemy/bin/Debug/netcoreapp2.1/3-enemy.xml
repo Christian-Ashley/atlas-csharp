@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>Defines a Zombie</summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>Represents Zombies Health</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>Zombie Constructor</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>
+            Zombie Constructor with int param
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>
+            returns health of the zombie
+            </summary>
+        </member>
+    </members>
+</doc>
