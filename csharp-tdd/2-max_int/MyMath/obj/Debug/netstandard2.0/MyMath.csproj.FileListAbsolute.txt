@@ -1,0 +1,10 @@
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\netstandard2.0\MyMath.xml
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\netstandard2.0\MyMath.deps.json
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\netstandard2.0\MyMath.dll
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\netstandard2.0\MyMath.pdb
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.csprojAssemblyReference.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfo.cs
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.dll
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\netstandard2.0\MyMath.pdb
