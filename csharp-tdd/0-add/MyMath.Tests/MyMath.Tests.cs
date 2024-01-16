@@ -2,21 +2,41 @@ using NUnit.Framework;
 
 namespace MyMath.Tests
 {
-    [TestClass]
-    public class OperationsTests
+    public class Tests
     {
-        [TestMethod]
-        public void Add_ShouldReturnCorrectSum()
+        [SetUp]
+        public void Setup()
         {
-            // Arrange
-            int a = 5;
-            int b = 7;
-            
-            // Act
+        }
+
+        [Test]
+        public void Add_TwoPositiveNumbers_ReturnsSum()
+        {
+            int a = 3;
+            int b = 4;
+
             int result = Operations.Add(a, b);
-            
-            // Assert
-            Assert.AreEqual(12, result);
+            Assert.AreEqual(7, result);
+        }
+
+        [Test]
+        public void Add_TwoNegativeNumbers_ReturnsSum()
+        {
+            int a = -3;
+            int b = -5;
+
+            int result = Operations.Add(a, b);
+
+            Assert.AreEqual(-8, result);
+        }
+
+        [Test]
+        public void Add_PositiveAndNegativeNumbers_ReturnsSum()
+        {
+            int a = 3;
+            int b = -2;
+            int result = Operations.Add(a, b);
+            Assert.AreEqual(1, result);
         }
     }
 }

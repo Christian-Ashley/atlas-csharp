@@ -1,0 +1,4 @@
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\0-add\MyMath.Tests\obj\Debug\netcoreapp2.1\MyMath.Tests.csprojAssemblyReference.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\0-add\MyMath.Tests\obj\Debug\netcoreapp2.1\MyMath.Tests.csproj.CoreCompileInputs.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\0-add\MyMath.Tests\obj\Debug\netcoreapp2.1\MyMath.Tests.AssemblyInfoInputs.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-tdd\0-add\MyMath.Tests\obj\Debug\netcoreapp2.1\MyMath.Tests.AssemblyInfo.cs
