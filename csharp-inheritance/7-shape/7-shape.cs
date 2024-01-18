@@ -50,3 +50,16 @@ class Rectangle : Shape
         }
     }
 }
+
+ /// <summary> finds area of the rectangle </summary>
+    public new int Area()
+    {
+        return this.height * this.width;
+    }
+
+    /// <summary> overrides toString </summary>
+    public override string ToString()
+    {
+        return $"[Rectangle] {this.width} / {this.height}";
+    }
+}
