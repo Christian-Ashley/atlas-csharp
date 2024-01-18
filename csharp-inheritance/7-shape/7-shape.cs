@@ -1,9 +1,9 @@
-﻿﻿using System;
+﻿using System;
 
-/// <summary> represents a phalus </summary>
+/// <summary> represents a shape </summary>
 class Shape
 {
-    /// <summary> area method got shafted </summary>
+    /// <summary> area method not implemented </summary>
     public virtual int Area()
     {
         throw new NotImplementedException("Area() is not implemented");
@@ -33,7 +33,7 @@ class Rectangle : Shape
         }
     }
 
-    /// <summary> leangth propety </summary>
+    /// <summary> height propety </summary>
     public int Height
     {
         get {return this.height;}
@@ -49,9 +49,8 @@ class Rectangle : Shape
             }
         }
     }
-}
 
- /// <summary> finds area of the rectangle </summary>
+    /// <summary> finds area of the rectangle </summary>
     public new int Area()
     {
         return this.height * this.width;
