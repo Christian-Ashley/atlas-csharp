@@ -1,0 +1,4 @@
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.csprojAssemblyReference.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.csproj.CoreCompileInputs.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.AssemblyInfoInputs.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.AssemblyInfo.cs
