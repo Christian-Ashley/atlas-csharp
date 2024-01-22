@@ -7,7 +7,7 @@
 
         double[,] result = new double[rows, columns];
 
-        if (rows != 2 && rows != 3 && columns != 2 && columns != 3)
+        if (rows != 2 && rows != 3 || columns != 2 && columns != 3)
         {
             result = new double[,] { { -1 } };
         }
