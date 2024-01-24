@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-modified_behavior</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary>
+            class player
+            </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>A player's class</summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>damages player</summary>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary> Heals player</summary>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary>makes sure to validate hp </summary>
+        </member>
+        <member name="M:Player.ApplyModifier(System.Single,Modifier)">
+            <summary>Modifies damage output</summary>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>prints health</summary>
+        </member>
+        <member name="T:Modifier">
+            <summary>
+            modifies enumerators
+            </summary>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary>
+            calculates the modifiers value
+            </summary>
+            <param name="baseValue"></param>
+            <param name="modifier"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
