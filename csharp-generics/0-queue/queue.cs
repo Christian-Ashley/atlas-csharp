@@ -1,7 +1,9 @@
-﻿public class Queue<T>
+﻿using System;
+
+class Queue<T>
 {
-    public string CheckType()
+    public Type CheckType()
     {
-        return typeof(T).Name;
+        return typeof(T);
     }
 }
