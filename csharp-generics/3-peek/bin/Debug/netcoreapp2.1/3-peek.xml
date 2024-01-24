@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-peek</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>
+            class Queue t
+            </summary>
+        </member>
+        <member name="T:Queue`1.Node">
+            <summary> creation of node </summary>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary> Check type of T </summary>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary> returns count </summary>
+        </member>
+    </members>
+</doc>

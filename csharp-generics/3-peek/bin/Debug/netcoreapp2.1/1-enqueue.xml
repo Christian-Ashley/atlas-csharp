@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enqueue</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>
+            represents a queue
+            </summary>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary> checks the type of queue </summary>
+        </member>
+        <member name="M:Queue`1.Enqueue(`0)">
+            <summary> adds new node to Queue </summary>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary> returns count in queue </summary>
+        </member>
+        <member name="T:Queue`1.Node">
+            <summary>
+            represents a node in the queue
+            </summary>
+        </member>
+        <member name="M:Queue`1.Node.Value(`0)">
+            <summary> value constructor </summary>
+        </member>
+    </members>
+</doc>
