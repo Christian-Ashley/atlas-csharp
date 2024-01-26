@@ -4,5 +4,5 @@ public class Inventory : BaseClass
 {
     User id user_id;
     Item id item_id;
-    int quantity == 1;
+    int quantity = 1;
 }
