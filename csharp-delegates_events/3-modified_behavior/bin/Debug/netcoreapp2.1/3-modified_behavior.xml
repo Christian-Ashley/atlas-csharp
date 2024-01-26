@@ -22,7 +22,10 @@
             <summary>makes sure to validate hp </summary>
         </member>
         <member name="M:Player.ApplyModifier(System.Single,Modifier)">
-            <summary>Modifies damage output</summary>
+            <summary>Modifies damage output
+            Modifier.Strong
+            Modifier.Base
+            Modifier.Weak</summary>
         </member>
         <member name="M:Player.PrintHealth">
             <summary>prints health</summary>
