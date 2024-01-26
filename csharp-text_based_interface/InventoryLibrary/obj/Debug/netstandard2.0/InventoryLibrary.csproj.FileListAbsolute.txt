@@ -1,0 +1,9 @@
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.csprojAssemblyReference.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.AssemblyInfoInputs.cache
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.AssemblyInfo.cs
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netstandard2.0\InventoryLibrary.deps.json
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netstandard2.0\InventoryLibrary.dll
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netstandard2.0\InventoryLibrary.pdb
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.dll
+C:\Users\christian ashley\Documents\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.pdb
